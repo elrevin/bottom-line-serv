@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="131253df-e660-4d92-b782-0d88f5d3651c" name="bottom-line.org" url="http://bottom-line.org">
+        <fileTransfer host="bottom-line.org" port="22" rootFolder="/home/elrevin/bottomline" accessType="SFTP" password="dfe1dfefdfd9dfd3dfe8df99dfcedfefdf9cdfc5dffedfc5" username="elrevin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
